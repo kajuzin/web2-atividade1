@@ -1,0 +1,13 @@
+{
+  "name": "atividade-i",
+  "version": "1.0.0",
+  "description": "atividade1",
+  "main": "qt1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "Clauber",
+  "license": "ISC"
+}
